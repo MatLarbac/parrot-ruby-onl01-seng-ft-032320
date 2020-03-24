@@ -4,5 +4,3 @@ def parrot(sound= "squawk!")
   puts "My parrot likes to #{sound}!"
   return "#{sound}!"
 end
-answer = "Squawk!"
-puts "My parrot likes to #{squawk!}"
